@@ -1,7 +1,7 @@
 ## CryptoClustering
 **Module 19 Challenge - Unsupervised Machine Learning**
 
-In this scenario, Python and unsupervised machine learning were employed to predict whether cryptocurrencies are impacted by changes in prices over a 24-hour or 7-day period. All the work was carried out within a Jupyter Notebook.
+In this scenario, I used Python and unsupervised machine learning to predict whether cryptocurrencies are influenced by changes in prices over a 24-hour or 7-day period. I performed all the work within a Jupyter Notebook.
 
 
 **Repository Folders and Contents:**
