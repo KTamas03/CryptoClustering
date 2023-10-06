@@ -22,12 +22,12 @@ In this scenario, I used Python and unsupervised machine learning to predict whe
 
 **Step 1.** 
 
-First, I imported the data into a pandas dataframe and ran summary statistics. Then, I created a line chart to visualize the data. I observed that the coin with the highest price change percentage over one year and 200 days was 'ethlend', followed by 'celsius-degree-token'. 'Theta-token' and 'havven' were also notable standouts.
+First, I imported the data into a pandas dataframe and ran summary statistics. Then, I created a line chart to visualize the data. I observed that the cryptocurrency with the highest price change percentage over one year and 200 days was 'ethlend', followed by 'celsius-degree-token'. 'Theta-token' and 'havven' were also notable standouts.
 ![image](https://github.com/KTamas03/CryptoClustering/assets/132874272/e1cbb16f-3c80-4f40-9923-ab37034b39e3)
 
 **Step 2.** 
 
-Next, I normalized the data using the StandardScaler() module to ensure that all the features in the dataframe had equal weight. Afterward, I created a new scaled dataframe, with 'coin_id' as the index.
+Next, I normalized the data using the StandardScaler() module to ensure that all the features in the dataframe had equal weight. Afterward, I created a new scaled dataframe, with cryptocurrency names ('coin_id') as the index.
 
 **Step 3.** 
 
