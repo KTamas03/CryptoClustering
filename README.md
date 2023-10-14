@@ -67,7 +67,7 @@ Furthermore, upon visually analyzing the cluster analysis results, it became evi
 **Resource File I Used:**
   - crypto_market_data.csv
 
-**My Jupyter Notebook Python Cleaning Script:**
+**My Jupyter Notebook Python Script:**
   - Crypto_Clustering.ipynb
 
 **Tools/Libraries I Imported:**
